@@ -1,6 +1,6 @@
 const apis = {
   ces: {
-    development: 'http://localhost:3000',
+    development: 'https://collab-editor-backend.herokuapp.com',
   },
 };
 
