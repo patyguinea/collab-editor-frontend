@@ -11,7 +11,7 @@ import ConversationIcons from './ConversationIcons';
 import NameSelector from './NameSelector';
 import Editor from '../Editor/Editor';
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles(() => ({
   card: {
     margin: '1rem',
   },

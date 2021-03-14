@@ -4,7 +4,7 @@ import StarOutlineIcon from '@material-ui/icons/StarOutline';
 import StarIcon from '@material-ui/icons/Star';
 import DeleteIcon from '@material-ui/icons/Delete';
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles(() => ({
   icons: {
     float: 'right',
   },
